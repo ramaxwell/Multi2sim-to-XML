@@ -1,0 +1,7 @@
+
+sh myM2S2XML.sh <x86-reportName> <mem-rpt-name> <output-filename.xml>
+
+
+Example:
+
+./myM2S2XML.sh x86-rpt-m2s-calculix-spec06.txt mem-rpt-m2s-calculix-spec06.txt test-output.xml
